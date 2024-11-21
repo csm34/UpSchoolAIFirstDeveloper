@@ -50,10 +50,10 @@ ID: 58e00af60aac31001185ed1d, Fact: It was illegal to slay cats in ancient Egypt
 The cat facts are saved in an SQLite database (`cat_facts.db`). You can inspect the database using any SQLite browser tool or use it in your future projects.
 
 ## File Structure
-├── main.py         # Main application logic.
-├── models.py       # Database models and setup.
-├── requirements.txt # Required Python libraries.
-├── README.md       # Project documentation.
+- `main.py` - Main application logic.
+- `models.py` - Database models and setup.
+- `requirements.txt` - Required Python libraries.
+- `README.md` - Project documentation.
 
 ## Future Improvements
 Add a front-end interface to display facts dynamically.
