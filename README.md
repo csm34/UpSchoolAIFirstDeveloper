@@ -39,15 +39,11 @@ This project is a Python application that fetches interesting cat facts from a p
 
 ### Example output in the terminal:
 API isteği başarılı!
-ID: 58e008780aac31001185ed05  
-Fact: Owning a cat can reduce the risk of stroke and heart attack by a third.  
+ID: 58e008780aac31001185ed05, Fact: Owning a cat can reduce the risk of stroke and heart attack by a third.  
 
-ID: 58e009390aac31001185ed10  
-Fact: Most cats are lactose intolerant, and milk can cause painful stomach cramps and diarrhea.  
-It's best to forego the milk and just give your cat the standard: clean, cool drinking water.  
+ID: 58e009390aac31001185ed10, Fact: Most cats are lactose intolerant, and milk can cause painful stomach cramps and diarrhea. It's best to forego the milk and just give your cat the standard: clean, cool drinking water.  
 
-ID: 58e00b5f0aac31001185ed24  
-Fact: When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied "cats."
+ID: 58e00b5f0aac31001185ed24, Fact: When asked if her husband had any hobbies, Mary Todd Lincoln is said to have replied "cats."
 
 
 ## Database
